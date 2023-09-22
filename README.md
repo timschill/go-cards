@@ -1,2 +1,2 @@
 # go-cards
-Udemy tutorial project
+Udemy tutorial project.
